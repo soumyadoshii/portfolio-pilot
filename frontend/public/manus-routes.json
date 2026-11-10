@@ -1,0 +1,20 @@
+{
+  "routes": [
+    { "path": "/", "title": "Home" },
+    { "path": "/login", "title": "Sign in" },
+    { "path": "/register", "title": "Create account" },
+    { "path": "/onboarding", "title": "Investor onboarding" },
+    { "path": "/dashboard", "title": "Portfolio overview" },
+    { "path": "/portfolio", "title": "Portfolio analytics" },
+    { "path": "/backtest", "title": "Historical portfolio comparison" },
+    { "path": "/stress-test", "title": "Stress test" },
+    { "path": "/goals", "title": "Financial goals" },
+    { "path": "/goals/:id", "title": "Goal details" },
+    { "path": "/rebalance", "title": "All-weather review" },
+    { "path": "/ai-coach", "title": "Portfolio Coach" },
+    { "path": "/reports", "title": "Reports" },
+    { "path": "/notifications", "title": "Notifications" },
+    { "path": "/settings", "title": "Settings and security" },
+    { "path": "/help", "title": "Help" }
+  ]
+}
